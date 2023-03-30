@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aec0fd5b-f271-4021-9f41-d0b7cda75abf" name="Changes" comment="" />
+    <list default="true" id="aec0fd5b-f271-4021-9f41-d0b7cda75abf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BT1/src/ReadAndWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT1/src/source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT1/src/target.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT1" beforeDir="false" afterPath="$PROJECT_DIR$/BT1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BT1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT1/out/production/BT1/IllegalTriangleException.class" beforeDir="false" afterPath="$PROJECT_DIR$/BT1/out/production/BT1/IllegalTriangleException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT1/out/production/BT1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/BT1/out/production/BT1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BT1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/BT1/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +31,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/MODULE 3/Session16",
+    "last_opened_file_path": "D:/MODULE 3/Session16/BT1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -30,6 +49,8 @@
       <option name="presentableId" value="Default" />
       <updated>1679905388513</updated>
       <workItem from="1679905389696" duration="20000" />
+      <workItem from="1679997561923" duration="149000" />
+      <workItem from="1680138611907" duration="431000" />
     </task>
     <servers />
   </component>
